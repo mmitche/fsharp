@@ -4,12 +4,11 @@
         "certificate": "NuGet",
         "strongName": null,
         "values": [
-          "artifacts\\*\\Microsoft.FSharp.Compiler*.nupkg"
+          "artifacts\\Microsoft.FSharp.Compiler*.nupkg"
         ]
       }
     ],
     "exclude": [
-        "artifacts\\*\\Testing*.nupkg"
     ]
   }
   
