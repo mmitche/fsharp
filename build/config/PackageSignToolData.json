@@ -9,6 +9,17 @@
       }
     ],
     "exclude": [
+        "artifacts\\Microsoft.FSharp.Compiler*symbols.nupkg"
+        "FSharp.Build.resources.dll",
+        "FSharp.Compiler.Interactive.Settings.resources.dll",
+        "FSharp.Compiler.Private.resources.dll",
+        "FSharp.Core.resources.dll",
+        "fsc.exe",
+        "FSharp.Build.dll",
+        "FSharp.Compiler.Interactive.Settings.dll",
+        "FSharp.Compiler.Private.dll",
+        "FSharp.Core.dll",
+        "fsi.exe"
     ]
   }
   
