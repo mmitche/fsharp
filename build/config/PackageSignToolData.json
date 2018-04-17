@@ -1,0 +1,15 @@
+{
+    "sign": [
+      {
+        "certificate": "NuGet",
+        "strongName": null,
+        "values": [
+          "artifacts\\*\\*.nupkg"
+        ]
+      }
+    ],
+    "exclude": [
+        "artifacts\\*\\Testing*.nupkg"
+    ]
+  }
+  
